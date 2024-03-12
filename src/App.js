@@ -117,22 +117,22 @@ function App() {
       setSpinning(true);
 
       // when spinning disable update player
-      document.getElementById("inputTextArea").disabled = true;
-      document.getElementById("updateButton").disabled = true;
-      document.getElementById("inputSearchBar").disabled = true;
-      document.getElementById("shuffleButton").disabled = true;
-      document.getElementById("removeButton").disabled = true;
-      document.getElementById("clearListButton").disabled = true;
+      // document.getElementById("inputTextArea").disabled = true;
+      // document.getElementById("updateButton").disabled = true;
+      // document.getElementById("inputSearchBar").disabled = true;
+      // document.getElementById("shuffleButton").disabled = true;
+      // document.getElementById("removeButton").disabled = true;
+      // document.getElementById("clearListButton").disabled = true;
 
       // after done spinning enable update player
       setTimeout(() => {
         setSpinning(false);
-        document.getElementById("inputTextArea").disabled = false;
-        document.getElementById("updateButton").disabled = false;
-        document.getElementById("inputSearchBar").disabled = false;
-        document.getElementById("shuffleButton").disabled = false;
-        document.getElementById("removeButton").disabled = false;
-        document.getElementById("clearListButton").disabled = false;
+        // document.getElementById("inputTextArea").disabled = false;
+        // document.getElementById("updateButton").disabled = false;
+        // document.getElementById("inputSearchBar").disabled = false;
+        // document.getElementById("shuffleButton").disabled = false;
+        // document.getElementById("removeButton").disabled = false;
+        // document.getElementById("clearListButton").disabled = false;
       }, window.localStorage.getItem("duration") * 1000);
 
       setTimeout(() => {
@@ -157,7 +157,7 @@ function App() {
         <Modal.Body>
           <p>{winners[newWinnerIndex]}</p>
         </Modal.Body>
-        <Modal.Footer>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+        <Modal.Footer>
           <Button variant="secondary" onClick={cancelModal}>
             Cancel
           </Button>
@@ -177,7 +177,7 @@ function App() {
               fontColor={fontColor}
             />
           </Col>
-          <Col lg="3" md="auto">
+          {/* <Col lg="3" md="auto">
             <div id="Tabs" className="mt-4">
               <Tabs defaultActiveKey="entries" className="mb-3">
                 <Tab eventKey="entries" title="Entries">
@@ -195,8 +195,8 @@ function App() {
                 </Tab>
               </Tabs>
             </div>
-          </Col>
-          <Col
+          </Col> */}
+          {/* <Col
             className="mt-4"
             xxl={{ span: 3, order: "first" }}
             xl={{ span: 3, order: "first" }}
@@ -204,7 +204,7 @@ function App() {
             md={{ order: "last" }}
           >
             <section id="youtubeSection" className="section">
-              {/* <h2>Youtube url player</h2>
+              <h2>Youtube url player</h2>
               <ReactPlayer
                 ref={ref}
                 className="react-player"
@@ -257,13 +257,13 @@ function App() {
                     className="form-check-input"
                   />
                 </form>
-              </form> */}
+              </form>
               <form className="form-inline mt-10">
                 <h2>Music player</h2>
                 <MusicPlayer />
               </form>
             </section>
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </div>
