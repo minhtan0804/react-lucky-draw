@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import TiengVoTay from "./assets/Tiếng vỗ tay.mp3";
 import KiepDoDen from "./assets/Kiếp Đỏ Đen.mp3";
 import XoSoKienThiet from "./assets/Xổ Số Kiến Thiết - DXY Remix.mp3";

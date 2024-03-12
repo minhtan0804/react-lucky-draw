@@ -204,7 +204,7 @@ function App() {
             md={{ order: "last" }}
           >
             <section id="youtubeSection" className="section">
-              <h2>Youtube url player</h2>
+              {/* <h2>Youtube url player</h2>
               <ReactPlayer
                 ref={ref}
                 className="react-player"
@@ -257,7 +257,7 @@ function App() {
                     className="form-check-input"
                   />
                 </form>
-              </form>
+              </form> */}
               <form className="form-inline mt-10">
                 <h2>Music player</h2>
                 <MusicPlayer />
