@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { React, useState } from "react";
 import ReactPlayer from "react-player";
 import Wheel from "./components/Wheel";
