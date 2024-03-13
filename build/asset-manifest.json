@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.34c2eff8.chunk.css",
-    "main.js": "/static/js/main.849718d5.chunk.js",
-    "main.js.map": "/static/js/main.849718d5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ba3eae34.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ba3eae34.js.map",
-    "static/css/2.40ab5e7a.chunk.css": "/static/css/2.40ab5e7a.chunk.css",
-    "static/js/2.cb10cfe2.chunk.js": "/static/js/2.cb10cfe2.chunk.js",
-    "static/js/2.cb10cfe2.chunk.js.map": "/static/js/2.cb10cfe2.chunk.js.map",
-    "static/js/3.bcb6d2b8.chunk.js": "/static/js/3.bcb6d2b8.chunk.js",
-    "static/js/3.bcb6d2b8.chunk.js.map": "/static/js/3.bcb6d2b8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.40ab5e7a.chunk.css.map": "/static/css/2.40ab5e7a.chunk.css.map",
-    "static/css/main.34c2eff8.chunk.css.map": "/static/css/main.34c2eff8.chunk.css.map",
-    "static/js/2.cb10cfe2.chunk.js.LICENSE.txt": "/static/js/2.cb10cfe2.chunk.js.LICENSE.txt",
-    "static/media/Kiếp Đỏ Đen.bb994dd8.mp3": "/static/media/Kiếp Đỏ Đen.bb994dd8.mp3",
-    "static/media/Tiếng vỗ tay.2e205f5d.mp3": "/static/media/Tiếng vỗ tay.2e205f5d.mp3",
-    "static/media/Xổ Số Kiến Thiết - DXY Remix.d658fa3d.mp3": "/static/media/Xổ Số Kiến Thiết - DXY Remix.d658fa3d.mp3",
-    "static/media/Xổ Số Kiến Thiết phiên bản tượt lô Hậu 6h30..3dbb1844.mp3": "/static/media/Xổ Số Kiến Thiết phiên bản tượt lô Hậu 6h30..3dbb1844.mp3",
-    "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.dfd0ea12.woff2"
+    "main.css": "/lucky-draw/static/css/main.34c2eff8.chunk.css",
+    "main.js": "/lucky-draw/static/js/main.0ee07a72.chunk.js",
+    "main.js.map": "/lucky-draw/static/js/main.0ee07a72.chunk.js.map",
+    "runtime-main.js": "/lucky-draw/static/js/runtime-main.d0a2d0cb.js",
+    "runtime-main.js.map": "/lucky-draw/static/js/runtime-main.d0a2d0cb.js.map",
+    "static/css/2.47cfe96f.chunk.css": "/lucky-draw/static/css/2.47cfe96f.chunk.css",
+    "static/js/2.24194728.chunk.js": "/lucky-draw/static/js/2.24194728.chunk.js",
+    "static/js/2.24194728.chunk.js.map": "/lucky-draw/static/js/2.24194728.chunk.js.map",
+    "static/js/3.c9ae22d7.chunk.js": "/lucky-draw/static/js/3.c9ae22d7.chunk.js",
+    "static/js/3.c9ae22d7.chunk.js.map": "/lucky-draw/static/js/3.c9ae22d7.chunk.js.map",
+    "index.html": "/lucky-draw/index.html",
+    "static/css/2.47cfe96f.chunk.css.map": "/lucky-draw/static/css/2.47cfe96f.chunk.css.map",
+    "static/css/main.34c2eff8.chunk.css.map": "/lucky-draw/static/css/main.34c2eff8.chunk.css.map",
+    "static/js/2.24194728.chunk.js.LICENSE.txt": "/lucky-draw/static/js/2.24194728.chunk.js.LICENSE.txt",
+    "static/media/Kiếp Đỏ Đen.bb994dd8.mp3": "/lucky-draw/static/media/Kiếp Đỏ Đen.bb994dd8.mp3",
+    "static/media/Tiếng vỗ tay.2e205f5d.mp3": "/lucky-draw/static/media/Tiếng vỗ tay.2e205f5d.mp3",
+    "static/media/Xổ Số Kiến Thiết - DXY Remix.d658fa3d.mp3": "/lucky-draw/static/media/Xổ Số Kiến Thiết - DXY Remix.d658fa3d.mp3",
+    "static/media/Xổ Số Kiến Thiết phiên bản tượt lô Hậu 6h30..3dbb1844.mp3": "/lucky-draw/static/media/Xổ Số Kiến Thiết phiên bản tượt lô Hậu 6h30..3dbb1844.mp3",
+    "static/media/bootstrap-icons.css": "/lucky-draw/static/media/bootstrap-icons.dfd0ea12.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba3eae34.js",
-    "static/css/2.40ab5e7a.chunk.css",
-    "static/js/2.cb10cfe2.chunk.js",
+    "static/js/runtime-main.d0a2d0cb.js",
+    "static/css/2.47cfe96f.chunk.css",
+    "static/js/2.24194728.chunk.js",
     "static/css/main.34c2eff8.chunk.css",
-    "static/js/main.849718d5.chunk.js"
+    "static/js/main.0ee07a72.chunk.js"
   ]
 }
